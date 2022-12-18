@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Learn Python - Full Course for Beginners [Tutorial]",
+    "channel": "freeCodeCamp.org",
+    "views": "37M views",
+    "uploadDate": "4 years ago",
+    "url": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+  },
+  {
+    "id": "2",
+    "title": "Python Tutorial - Python Full Course for Beginners",
+    "channel": "Programming with Mosh",
+    "views": "30M views",
+    "uploadDate": "3 years ago",
+    "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+  },
+  {
+    "id": "3",
+    "title": "Python Tutorial For Beginners In Hindi (With Notes) \uD83D\uDD25",
+    "channel": "CodeWithHarry",
+    "views": "18M views",
+    "uploadDate": "2 years ago",
+    "url": "https://www.youtube.com/watch?v=gfDE2a7MKjA"
+  },
+  {
+    "id": "4",
+    "title": "Python for Beginners - Learn Python in 1 Hour",
+    "channel": "Programming with Mosh",
+    "views": "8.7M views",
+    "uploadDate": "2 years ago",
+    "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8"
+  },
+  {
+    "id": "5",
+    "title": "Python Tutorial for Absolute Beginners #1 - What Are Variables?",
+    "channel": "CS Dojo",
+    "views": "8.2M views",
+    "uploadDate": "4 years ago",
+    "url": "https://www.youtube.com/watch?v=Z1Yd7upQsXY"
+  },
+  {
+    "id": "6",
+    "title": "Curso Python para Principiantes",
+    "channel": "Fazt",
+    "views": "6.9M views",
+    "uploadDate": "3 years ago",
+    "url": "https://www.youtube.com/watch?v=chPhlsHoEPo"
+  },
+  {
+    "id": "7",
+    "title": "Python Full Course \uD83D\uDC0D (FREE)",
+    "channel": "Bro Code",
+    "views": "6.9M views",
+    "uploadDate": "1 year ago",
+    "url": "https://www.youtube.com/watch?v=XKHEtdqhLK8"
+  },
+  {
+    "id": "8",
+    "title": "Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)",
+    "channel": "freeCodeCamp.org",
+    "views": "5.8M views",
+    "uploadDate": "3 years ago",
+    "url": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+  }
+]

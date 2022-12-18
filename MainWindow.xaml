@@ -1,0 +1,42 @@
+﻿<Window x:Class="Selenium_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Selenium_WPF"
+        mc:Ignorable="d"
+        Title="Webscraper"
+        Width="350"
+        Height="400">
+    <Grid>
+        <StackPanel>
+
+            <StackPanel Orientation="Horizontal"
+                        Margin="0 0">
+                <Label
+                    x:Name="scrapeOptionsLabel"
+                    >
+                    Please choose a website:
+                </Label>
+                <ComboBox
+                    x:Name="scrapeOptionsDropdown"
+                    Text="Select Option"
+                    IsEditable="True" IsReadOnly="True"
+                    Margin="0 2"
+                    />
+                <Button
+                    x:Name="scrapeOptionsSubmit"
+                    Click="scrapeOptionsSubmit_Click"
+                    Margin="5 2"
+                    >
+                    Submit
+                </Button>
+            </StackPanel>
+            <Separator/>
+            <Frame 
+                x:Name="Display"
+                Height="300"
+                />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Solution IT Architect",
+    "company": "Experis",
+    "location": "Brussels",
+    "keywords": "Solution Architect IT",
+    "url": "https://www.ictjob.be/en/job/experis-solution-architect/2-166914"
+  },
+  {
+    "id": "2",
+    "title": "Java Engineer",
+    "company": "Vivid Resourcing",
+    "location": "Kontich",
+    "keywords": "Java, Spring Boot, VueJS, AWS",
+    "url": "https://www.ictjob.be/en/job/vivid-resourcing-java-engineer/2-166919"
+  },
+  {
+    "id": "3",
+    "title": "Developer",
+    "company": "Ago IT",
+    "location": "Lokeren",
+    "keywords": "Mobile Development",
+    "url": "https://www.ictjob.be/en/job/developer/1-167817"
+  },
+  {
+    "id": "4",
+    "title": "PaaS \u2013 Senior Platform Engineer",
+    "company": "Smals",
+    "location": "Brussels",
+    "keywords": "Senior Platform Engineer",
+    "url": "https://www.ictjob.be/en/job/paas-senior-platform-engineer/1-167809"
+  },
+  {
+    "id": "5",
+    "title": "PaaS - Junior Platform Engineer",
+    "company": "Smals",
+    "location": "Brussels",
+    "keywords": "Junior Platform Engineer",
+    "url": "https://www.ictjob.be/en/job/paas-junior-platform-engineer/1-167807"
+  },
+  {
+    "id": "6",
+    "title": "Quantexa Developer",
+    "company": "Egov Select",
+    "location": "Brussels",
+    "keywords": "Quantexa Scala",
+    "url": "https://www.ictjob.be/en/job/egov-select-quantexa-developer/5-158790"
+  }
+]
